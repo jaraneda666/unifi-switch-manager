@@ -29,5 +29,5 @@ python tools/audit_network_devices.py --ip 192.168.1.2
 
 ---
 
-**Autor:** Security Analyst  
-**Licencia:** Uso Privado / Propietario
+**Autor:** Juan Carlos Araneda M.  
+**Licencia:** MIT License (consulte [LICENSE](LICENSE))
